@@ -1,7 +1,7 @@
 # Understanding Flexbox
 
 ## Flex Items
-### 3. The Flex Container Properties
+### 2. The Flex Container Properties
 1. Flex-direction
 2. Flex-wrap
 3. Flex-flow
